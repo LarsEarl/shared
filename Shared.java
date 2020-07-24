@@ -2,7 +2,7 @@ package org.firstinspires.ftc.teamcode.shared;
 
 public class Shared {
     public static void foo(){
-        System.out.println("Hello Everybody!");
+        System.out.println("Hello Everybody!!");
     }
 }
 
